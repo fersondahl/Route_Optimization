@@ -33,3 +33,10 @@ Sendo:
 $x_{ij}$: Variável binária que assumirá 1 se o trajeto entre as cidades *i* e *j* for percorrido, e 0 caso contrário.  
 
 $d_{ij}$: A distância entre as cidades *i* e *j*.
+
+
+## 🏅 Solução do caso
+Para ilustrar a implementação da solução, o estudo foi construído através do estudo de caso em que se buscara passar por todos os municípios do Rio de Janeiro. A solução do modelo é exibida a seguir:
+
+
+![Optimal Route](optimal%20route.png)
